@@ -1,2 +1,1 @@
-# snippets
-Snippets para frameworks
+# Snippets úteis para agilizar a programação
