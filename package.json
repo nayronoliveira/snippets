@@ -1,5 +1,5 @@
 {
-  "name": "snippets",
+  "name": "snippets-naytech",
   "version": "1.0.0",
   "description": "Snippets para frameworks js",
   "main": "index.json",
@@ -16,7 +16,7 @@
     "code",
     "library"
   ],
-  "author": "",
+  "author": "Nayron Rufino <nayron.oliveira@example.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nayronoliveira/snippets/issues"
