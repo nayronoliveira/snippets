@@ -1,0 +1,25 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "Snippets para frameworks js",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayronoliveira/snippets.git"
+  },
+  "keywords": [
+    "vue",
+    "snippets",
+    "code",
+    "library"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayronoliveira/snippets/issues"
+  },
+  "homepage": "https://github.com/nayronoliveira/snippets#readme"
+}
